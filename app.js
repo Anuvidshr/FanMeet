@@ -1,7 +1,7 @@
 require('dotenv').config();
 const express = require('express');  //express framework
 const connectDb = require('./config/db');
-const app = express();    // Initialize Express app//new web server
+const app = express();    // Initialize Express app//newweb server
 const cors =require('cors'); // Import CORS
 const cookieParser = require('cookie-parser');
 const http =require("http")
