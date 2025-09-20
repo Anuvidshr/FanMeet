@@ -10,6 +10,8 @@ yarn-error.log*
 dist/
 # Large binary files
 bin/
+# Frontend folder (not needed in this repo)
+DevMeet-Frontend/
 build/
 coverage/
 .nyc_output/
