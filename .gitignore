@@ -8,6 +8,8 @@ yarn-error.log*
 .vscode/
 .idea/
 dist/
+# Large binary files
+bin/
 build/
 coverage/
 .nyc_output/
